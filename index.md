@@ -1,9 +1,9 @@
-# Welcome to My Portfolio
-Hello! My name is [Your Alias or Initials].
+# Welcome to My Portfolio 
+Hello! My name is K.S.
 
 ## Projects
-- Project 1: Description
-- Project 2: Description
+- Project 1: GitHub Portfolio Setup — A personalized Jekyll-based site showcasing coding projects and course progress.
+- Project 2: Interactive Web Tools — A collection of basic scripts and HTML/CSS web projects built during class.
 
 ## About Me
 Click here to learn more → [About Me](about.md)
